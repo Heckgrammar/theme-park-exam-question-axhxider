@@ -5,7 +5,7 @@ public class Program
 		Console.WriteLine("how many poeple are in your group"); //asks for the  number of people visiting the theme park
 		int people = Convert.ToInt32(Console.ReadLine());
 		
-		int finalCharge = people * 15;	//charge is £15pp therefire people*15 = cost of whole data set
+		int finalCharge = people * 15;	//charge is £15pp therefore people*15 = cost of whole data set
 		
 		if (people >= 6 )
 		
